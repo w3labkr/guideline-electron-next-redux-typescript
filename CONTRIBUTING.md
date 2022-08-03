@@ -12,6 +12,12 @@ yarn add --dev @types/react-redux
 ```
 
 ```shell
+yarn add global npm-check-updates
+npm-check-updates -u
+yarn add --dev yarn-upgrade-all
+```
+
+```shell
 yarn build
 ```
 
